@@ -1,0 +1,36 @@
+.hidden {
+ display:none;
+}
+
+td {
+	text-align:center;
+	padding:33px;
+	font-family:DejaVu Sans Mono, monospace;
+}
+
+
+#footer {
+	background-color: #CCCCCC;
+	padding: 5px 0 10px 0;
+	text-align: center;
+	clear: both;
+}
+
+body {
+	background-color: #FFE1FF;
+}
+
+table, th, td {
+	border:1px solid grey;
+	align:center;
+
+}
+
+.nav {
+	display: flex;
+	flex-direction: column;
+	border: solid 1px;
+	background-color:rgb(200, 200, 220);
+	padding:10px 25px;
+	margin:0;
+}
